@@ -242,7 +242,7 @@ a {
 }
 
 .badge-explainer {
-	background-color: rgb(0 0 0 / 10%);
+	background-color: rgb(0 0 0 / 15%);
 	backdrop-filter: blur(2px);
 	padding: 2rem 1rem;
 	text-align: center;
